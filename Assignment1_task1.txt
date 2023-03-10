@@ -1,0 +1,13 @@
+#2-a
+This article is about developing a new method to quantify mutual exclusivity between two genes from sparse scRNA-seq data.
+The authors said this new method provides new biological insights.
+
+#2-b
+In this article, scRNA-seq was used.
+
+#3-a
+I have some questions.
+First, are there some new biological findings applying this method?
+Secondly, can this method apply to not drop-base scRNA-seq? Or this is not the purpose of this method?
+Lastly, is this method used now? And, if not, why?
+PS. I am not familiar with methods, so if I have weird questions, please forgive me.
